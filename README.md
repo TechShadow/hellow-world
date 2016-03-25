@@ -1,3 +1,3 @@
 # hellow-world
-Inicio en GitHub;
+Inicio en GitHub\n
 Solo por que me gusta la electronica
